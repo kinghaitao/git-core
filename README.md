@@ -1,4 +1,6 @@
 git-core
 ========
-Add this line for a test.
-Just for the git study test
+Just for the git study.
+The code is linux kernel of version 2.26.32.6.
+No further use.
+Thanks.

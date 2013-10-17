@@ -1,0 +1,20 @@
+From c6a657fe0b7ceb53718223484b8c15c77f748954 Mon Sep 17 00:00:00 2001
+From: sealwang <SealWang@china-liantong.com>
+Date: Wed, 16 Oct 2013 16:29:44 +0800
+Subject: [PATCH] Add a file named hello.log
+
+---
+ hello.log |    1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hello.log
+
+diff --git a/hello.log b/hello.log
+new file mode 100644
+index 0000000..2c280c4
+--- /dev/null
++++ b/hello.log
+@@ -0,0 +1 @@
++add hello
+-- 
+1.7.9.5
+

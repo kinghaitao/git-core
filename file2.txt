@@ -1,3 +1,2 @@
 file2
 add by seal
-add for the patch test
